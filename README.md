@@ -6,3 +6,5 @@ O projeto foi desenvolvido em linguagem `JAVA` e algumas bibliotecas para leitur
 Com esse software é possível ler um arquivo `.XML` e plotar um gráfico com os pontos correspondentes.
 
 O intuíto da criação deste software é ler os arquivos `xml` que mapeiam a base de dados do ISCX, afim de descobrir os horários marcados com a TAG: `ATTACK` e plotá-los em um gráfico de modo a facilitar a visualização desses ataques ao longo dos 7 dias.
+
+> Foi usado o NETBEANS no projeto
